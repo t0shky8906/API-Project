@@ -5,7 +5,7 @@
 # Features:
 Real-time Weather Data: Fetch current weather information including temperature, humidity, and weather conditions using a public weather API.
 Search Functionality: Users can search for weather data by entering the name of a city.
-# Responsive Design: The app is designed to be fully responsive, ensuring a seamless experience across various devices and screen sizes.
+Responsive Design: The app is designed to be fully responsive, ensuring a seamless experience across various devices and screen sizes.
 # Minimalist UI: A clean and intuitive user interface, focusing on ease of use and quick access to weather information.
 
 # Technologies Used:
